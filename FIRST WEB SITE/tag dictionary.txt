@@ -1,0 +1,28 @@
+a:to open up a code and close a code 
+  ex:<a href="https://www.google.com/">a website</a> 
+  attributes: href
+
+h1:head tag, makes the text large and puts on a seprate line.
+   <h1>Oscar Ji</h1>
+   attributes:none
+
+h2: do the same thing as h1 make text 
+attributes:none
+
+img: code for putting image in a website
+    ex:<img src="th.jpg">
+	attributes: src
+
+li:	 put a dot in front of sth
+  ex:<li>Video games</li>
+
+ol: to start a paragrah
+attributes:none
+
+p:link to a website
+  ex:<p>Link to <a href="https://www.google.com/">
+  attributes:href
+
+ul:to start a paragraph
+attributes:none
+    
